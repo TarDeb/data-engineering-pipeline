@@ -1,0 +1,4 @@
+order_id,customer_id,amount,order_date
+1,CUST01,120.50,2023-01-10
+2,CUST02,85.00,2023-01-11
+3,CUST01,45.00,2023-01-12
