@@ -1,0 +1,4 @@
+kafka-python
+apache-airflow
+pyspark
+psycopg2-binary
